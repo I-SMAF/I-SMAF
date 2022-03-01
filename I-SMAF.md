@@ -1,4 +1,6 @@
-<details><summary>#### I_SMAF</summary>
+<details><summary>
+  #### I_SMAF
+  </summary>
 <p>
 
 #### CodeWars
