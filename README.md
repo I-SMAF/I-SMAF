@@ -1,6 +1,4 @@
-<details><summary> I_SMAF</summary>
-  <p>#### CodeWars</p>
-  <p>
+####I_SMAF
+ - #### CodeWars
     ![codewars](https://www.codewars.com/users/smaf/badges/large)
-  </p>
-</details>
+
